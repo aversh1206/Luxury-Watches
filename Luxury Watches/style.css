@@ -25,6 +25,10 @@
   padding: 25px 0 20px 0px;
 }
 
+.cartList {
+  list-style-type: none;
+}
+
 .l_watches {
   text-align: center;
   padding: 25px 0 20px 0px;
@@ -734,6 +738,9 @@ transform: translate3d(0,0,0);
   font-size: 16px;
   text-align: center;
 }
+
+
+
 
 /*  */
 
